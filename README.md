@@ -17,11 +17,11 @@ CSS3: Estilização personalizada, com layout responsivo e uso de @media queries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Funcionalidades
-# Cabeçalho com navegação: Links para o trailer e a página de críticas.  <br>
-# Trailer do Filme: Vídeo incorporado diretamente na página inicial.  <br>
-# Artigos Informativos: Conteúdo detalhado sobre personagens e o enredo.  <br>
-# Galeria de Imagens: Mostra imagens icônicas de Garfield e seus amigos.  <br>
-# Rodapé: Informações sobre direitos autorais e link para a Vai na Web.  <br>
+### Cabeçalho com navegação: Links para o trailer e a página de críticas.  <br>
+### Trailer do Filme: Vídeo incorporado diretamente na página inicial.  <br>
+### Artigos Informativos: Conteúdo detalhado sobre personagens e o enredo.  <br>
+### Galeria de Imagens: Mostra imagens icônicas de Garfield e seus amigos.  <br>
+### Rodapé: Informações sobre direitos autorais e link para a Vai na Web.  <br>
 
 ### 📁 Instalação e Uso:
 1 - Clone o repositório: Git clone `(https://github.com/lucasgomesdacruz/Desafio1-VNW.git)` <br>

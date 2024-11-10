@@ -12,8 +12,8 @@ CineGarfild é um projeto web que destaca as aventuras do icônico personagem Ga
 • Página de Críticas (users.html): Mostra uma mensagem de erro "404 Not Found :(", destacando que a seção de críticas dos usuários ainda não está disponível.<br>
 
 ### 🛠️ Tecnologias Utilizadas
-HTML5: Estruturação semântica do conteúdo.
-CSS3: Estilização personalizada, com layout responsivo e uso de @media queries para garantir a compatibilidade em dispositivos móveis.
+HTML5: Estruturação semântica do conteúdo. <br>
+CSS3: Estilização personalizada, com layout responsivo e uso de @media queries para garantir a compatibilidade em dispositivos móveis. <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Funcionalidades
